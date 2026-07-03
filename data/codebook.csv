@@ -1,0 +1,481 @@
+question_id,option_id,option_label,is_missing
+2025-064a_q4,1,Yes,false
+2025-064a_q4,2,No,false
+2025-064c_q1,1,"Conducted a search on a search engine (e.g., Google, Bing)",false
+2025-064c_q1,2,"Asked a question to an AI chatbot (e.g., ChatGPT, Microsoft Copilot, Google Gemini)",false
+2025-064c_q1,3,Traded cryptocurrency,false
+2025-064c_q1,4,Rode in a self-driving car,false
+2025-064c_q1,5,Used a virtual reality headset,false
+2025-064c_q1,6,Watched television,false
+2025-064c_q1,7,Read a newspaper,false
+2025-064c_q1,8,None of the above,false
+2025-064c_q10,1,Microsoft Copilot,false
+2025-064c_q10,2,Google Gemini,false
+2025-064c_q10,3,Claude AI,false
+2025-064c_q10,4,Grok,false
+2025-064c_q10,5,Deepseek,false
+2025-064c_q10,6,Perplexity,false
+2025-064c_q10,7,Llama by Meta,false
+2025-064c_q10,9,None of the above,false
+2025-064c_q10,10,ChatGPT,false
+2025-064c_q11,1,Personal organization,false
+2025-064c_q11,2,Managing your calendar and scheduling,false
+2025-064c_q11,3,"Entertainment (e.g., storytelling, games, music)",false
+2025-064c_q11,4,"Writing or editing personal messages, emails, or social media posts",false
+2025-064c_q11,5,"Getting recommendations (e.g., movies, restaurants, gifts)",false
+2025-064c_q11,6,Planning a trip,false
+2025-064c_q11,7,Getting advice on health and fitness,false
+2025-064c_q11,8,Other (please specify),false
+2025-064c_q11,9,I do not use AI for my personal life,false
+2025-064c_q12,1,Yes (please describe),false
+2025-064c_q12,2,No,false
+2025-064c_q13,1,I used an AI tool for mental-health or emotional-support purposes in the past 30 days,false
+2025-064c_q13,2,"I have used an AI for that before, but not in the past 30 days",false
+2025-064c_q13,3,I’ve never used an AI for mental-health or emotional-support purposes,false
+2025-064c_q13,4,Prefer not to say,false
+2025-064c_q14,1,"Coping strategies (e.g., reframing, breathing prompts)",false
+2025-064c_q14,2,Mood tracking or journaling prompts,false
+2025-064c_q14,3,Talking through feelings (“therapy-like” conversation),false
+2025-064c_q14,4,Relationship/family advice,false
+2025-064c_q14,5,"Stress, anxiety, or sleep support",false
+2025-064c_q14,6,Crisis information or safety resources,false
+2025-064c_q14,7,Scheduling or finding human therapy,false
+2025-064c_q14,8,Other,false
+2025-064c_q14,9,I haven’t used AI for these purposes,false
+2025-064c_q15,1,Much more comfortable with AI,false
+2025-064c_q15,2,Somewhat more,false
+2025-064c_q15,3,About the same,false
+2025-064c_q15,4,Somewhat less,false
+2025-064c_q15,5,Much less,false
+2025-064c_q15,6,Don’t know / Not sure,false
+2025-064c_q16,1,Very likely,false
+2025-064c_q16,2,Somewhat likely,false
+2025-064c_q16,3,Not very likely,false
+2025-064c_q16,4,Not at all likely,false
+2025-064c_q16,5,Not sure,false
+2025-064c_q17,1,Very beneficial,false
+2025-064c_q17,2,Somewhat beneficial,false
+2025-064c_q17,3,Neither beneficial nor harmful,false
+2025-064c_q17,4,Somewhat harmful,false
+2025-064c_q17,5,Very harmful,false
+2025-064c_q17,6,I haven’t used AI for this,false
+2025-064c_q18,1,Not at all,false
+2025-064c_q18,2,A little,false
+2025-064c_q18,3,Somewhat,false
+2025-064c_q18,4,Very,false
+2025-064c_q18,5,Extremely,false
+2025-064c_q18,6,I don’t use an AI assistant,false
+2025-064c_q20,1,Chatted with an AI “just to keep it company”,false
+2025-064c_q20,2,Given your AI a name or nickname,false
+2025-064c_q20,3,Told the AI something you haven’t told people close to you,false
+2025-064c_q20,4,"Felt jealous or protective about your AI (e.g., dislike when others use “your” bot)",false
+2025-064c_q20,5,Described an AI as a friend/partner when talking to others,false
+2025-064c_q20,6,Purchased or subscribed to a companion AI product,false
+2025-064c_q20,7,None of the above,false
+2025-064c_q21,1,Not upset,false
+2025-064c_q21,2,Slightly upset,false
+2025-064c_q21,3,Moderately upset,false
+2025-064c_q21,4,Very upset,false
+2025-064c_q21,5,Devastated,false
+2025-064c_q21,6,Not sure / I don’t use an AI chatbot for mental health purposes,false
+2025-064c_q22_1,1,Definitely yes,false
+2025-064c_q22_1,2,Probably yes,false
+2025-064c_q22_1,3,Probably no,false
+2025-064c_q22_1,4,Definitely no,false
+2025-064c_q22_1,5,Not sure,false
+2025-064c_q22_2,1,Definitely yes,false
+2025-064c_q22_2,2,Probably yes,false
+2025-064c_q22_2,3,Probably no,false
+2025-064c_q22_2,4,Definitely no,false
+2025-064c_q22_2,5,Not sure,false
+2025-064c_q22_3,1,Definitely yes,false
+2025-064c_q22_3,2,Probably yes,false
+2025-064c_q22_3,3,Probably no,false
+2025-064c_q22_3,4,Definitely no,false
+2025-064c_q22_3,5,Not sure,false
+2025-064c_q22_4,1,Definitely yes,false
+2025-064c_q22_4,2,Probably yes,false
+2025-064c_q22_4,3,Probably no,false
+2025-064c_q22_4,4,Definitely no,false
+2025-064c_q22_4,5,Not sure,false
+2025-064c_q22_5,1,Definitely yes,false
+2025-064c_q22_5,2,Probably yes,false
+2025-064c_q22_5,3,Probably no,false
+2025-064c_q22_5,4,Definitely no,false
+2025-064c_q22_5,5,Not sure,false
+2025-064c_q23,1,"No AI should have legal rights, regardless of capability",false
+2025-064c_q23,2,"Some very advanced AIs should have limited rights (e.g., protections, obligations)",false
+2025-064c_q23,3,Advanced AIs should eventually have rights similar to humans,false
+2025-064c_q23,4,Don’t know / not sure,false
+2025-064c_q4,1,Several times a day,false
+2025-064c_q4,2,About once a day,false
+2025-064c_q4,3,A few times a week,false
+2025-064c_q4,4,Less than once a week,false
+2025-064c_q4,5,Less than once a month,false
+2025-064c_q4,6,Never,false
+2025-064c_q5,1,I don’t need it,false
+2025-064c_q5,2,I don’t know how to use it,false
+2025-064c_q5,3,I don’t trust it,false
+2025-064c_q5,4,It’s too expensive,false
+2025-064c_q5,5,I’m concerned about privacy,false
+2025-064c_q5,6,I’m concerned about impacts to the environment,false
+2025-064c_q5,7,I’m concerned about impacts to society,false
+2025-064c_q5,8,Other (please specify),false
+2025-064c_q6_1,1,Strongly agree,false
+2025-064c_q6_1,2,Somewhat agree,false
+2025-064c_q6_1,3,Neutral,false
+2025-064c_q6_1,4,Somewhat disagree,false
+2025-064c_q6_1,5,Strongly disagree,false
+2025-064c_q6_2,1,Strongly agree,false
+2025-064c_q6_2,2,Somewhat agree,false
+2025-064c_q6_2,3,Neutral,false
+2025-064c_q6_2,4,Somewhat disagree,false
+2025-064c_q6_2,5,Strongly disagree,false
+2025-064c_q6_3,1,Strongly agree,false
+2025-064c_q6_3,2,Somewhat agree,false
+2025-064c_q6_3,3,Neutral,false
+2025-064c_q6_3,4,Somewhat disagree,false
+2025-064c_q6_3,5,Strongly disagree,false
+2025-064c_q6_4,1,Strongly agree,false
+2025-064c_q6_4,2,Somewhat agree,false
+2025-064c_q6_4,3,Neutral,false
+2025-064c_q6_4,4,Somewhat disagree,false
+2025-064c_q6_4,5,Strongly disagree,false
+2025-064c_q6_5,1,Strongly agree,false
+2025-064c_q6_5,2,Somewhat agree,false
+2025-064c_q6_5,3,Neutral,false
+2025-064c_q6_5,4,Somewhat disagree,false
+2025-064c_q6_5,5,Strongly disagree,false
+2025-064c_q6_6,1,Strongly agree,false
+2025-064c_q6_6,2,Somewhat agree,false
+2025-064c_q6_6,3,Neutral,false
+2025-064c_q6_6,4,Somewhat disagree,false
+2025-064c_q6_6,5,Strongly disagree,false
+2025-064c_q7_1,1,Extremely concerned,false
+2025-064c_q7_1,2,Very concerned,false
+2025-064c_q7_1,3,Somewhat concerned,false
+2025-064c_q7_1,4,Not at all concerned,false
+2025-064c_q7_1,5,I’m unfamiliar with this topic,false
+2025-064c_q7_10,1,Extremely concerned,false
+2025-064c_q7_10,2,Very concerned,false
+2025-064c_q7_10,3,Somewhat concerned,false
+2025-064c_q7_10,4,Not at all concerned,false
+2025-064c_q7_10,5,I’m unfamiliar with this topic,false
+2025-064c_q7_11,1,Extremely concerned,false
+2025-064c_q7_11,2,Very concerned,false
+2025-064c_q7_11,3,Somewhat concerned,false
+2025-064c_q7_11,4,Not at all concerned,false
+2025-064c_q7_11,5,I’m unfamiliar with this topic,false
+2025-064c_q7_12,1,Extremely concerned,false
+2025-064c_q7_12,2,Very concerned,false
+2025-064c_q7_12,3,Somewhat concerned,false
+2025-064c_q7_12,4,Not at all concerned,false
+2025-064c_q7_12,5,I’m unfamiliar with this topic,false
+2025-064c_q7_13,1,Extremely concerned,false
+2025-064c_q7_13,2,Very concerned,false
+2025-064c_q7_13,3,Somewhat concerned,false
+2025-064c_q7_13,4,Not at all concerned,false
+2025-064c_q7_13,5,I’m unfamiliar with this topic,false
+2025-064c_q7_2,1,Extremely concerned,false
+2025-064c_q7_2,2,Very concerned,false
+2025-064c_q7_2,3,Somewhat concerned,false
+2025-064c_q7_2,4,Not at all concerned,false
+2025-064c_q7_2,5,I’m unfamiliar with this topic,false
+2025-064c_q7_3,1,Extremely concerned,false
+2025-064c_q7_3,2,Very concerned,false
+2025-064c_q7_3,3,Somewhat concerned,false
+2025-064c_q7_3,4,Not at all concerned,false
+2025-064c_q7_3,5,I’m unfamiliar with this topic,false
+2025-064c_q7_4,1,Extremely concerned,false
+2025-064c_q7_4,2,Very concerned,false
+2025-064c_q7_4,3,Somewhat concerned,false
+2025-064c_q7_4,4,Not at all concerned,false
+2025-064c_q7_4,5,I’m unfamiliar with this topic,false
+2025-064c_q7_5,1,Extremely concerned,false
+2025-064c_q7_5,2,Very concerned,false
+2025-064c_q7_5,3,Somewhat concerned,false
+2025-064c_q7_5,4,Not at all concerned,false
+2025-064c_q7_5,5,I’m unfamiliar with this topic,false
+2025-064c_q7_6,1,Extremely concerned,false
+2025-064c_q7_6,2,Very concerned,false
+2025-064c_q7_6,3,Somewhat concerned,false
+2025-064c_q7_6,4,Not at all concerned,false
+2025-064c_q7_6,5,I’m unfamiliar with this topic,false
+2025-064c_q7_7,1,Extremely concerned,false
+2025-064c_q7_7,2,Very concerned,false
+2025-064c_q7_7,3,Somewhat concerned,false
+2025-064c_q7_7,4,Not at all concerned,false
+2025-064c_q7_7,5,I’m unfamiliar with this topic,false
+2025-064c_q7_8,1,Extremely concerned,false
+2025-064c_q7_8,2,Very concerned,false
+2025-064c_q7_8,3,Somewhat concerned,false
+2025-064c_q7_8,4,Not at all concerned,false
+2025-064c_q7_8,5,I’m unfamiliar with this topic,false
+2025-064c_q7_9,1,Extremely concerned,false
+2025-064c_q7_9,2,Very concerned,false
+2025-064c_q7_9,3,Somewhat concerned,false
+2025-064c_q7_9,4,Not at all concerned,false
+2025-064c_q7_9,5,I’m unfamiliar with this topic,false
+2025-064c_q8,1,More job opportunities,false
+2025-064c_q8,2,Fewer job opportunities,false
+2025-064c_q8,3,Will not make much difference,false
+2025-064c_q9,1,ChatGPT,false
+2025-064c_q9,2,Microsoft Copilot,false
+2025-064c_q9,3,Google Gemini,false
+2025-064c_q9,4,Claude AI,false
+2025-064c_q9,5,Grok,false
+2025-064c_q9,6,Deepseek,false
+2025-064c_q9,7,Perplexity,false
+2025-064c_q9,8,Llama by Meta,false
+2025-064c_q9,9,None of the above,false
+2025-183_q1,1,Kendrick Lamar- GNX,false
+2025-183_q1,2,Lady Gaga- Mayhem,false
+2025-183_q1,3,Bad Bunny- Debí Tirar Más Fotos,false
+2025-183_q1,4,Sabrina Carpenter- Man’s Best Friend,false
+2025-183_q1,5,Justin Bieber- SWAG,false
+2025-183_q1,6,"Tyler, the Creator- Chromakopia",false
+2025-183_q1,7,Leon Thomas- Mutt,false
+2025-183_q1,8,Clipse- Let God Sort Em Out,false
+2025-183_q1,9,Not sure,false
+2025-183_q10,1,Primarily a mainstream hitmaker focused on commercial success,false
+2025-183_q10,2,"A socially conscious artist whose music addresses race, inequality, and identity",false
+2025-183_q10,3,An underground or alternative rapper with limited mainstream influence,false
+2025-183_q10,4,A cultural figure whose influence extends beyond music into politics and art,false
+2025-183_q10,5,Not familiar enough with Kendrick Lamar to say,false
+2025-183_q13,1,Democrats,false
+2025-183_q13,2,Republicans,false
+2025-183_q14,1,Very confident,false
+2025-183_q14,2,Somewhat confident,false
+2025-183_q14,3,Not very confident,false
+2025-183_q14,4,Not confident at all,false
+2025-183_q15,1,Very hopeful,false
+2025-183_q15,2,Somewhat hopeful,false
+2025-183_q15,3,Neutral,false
+2025-183_q15,4,Somewhat worried,false
+2025-183_q15,5,Very worried,false
+2025-183_q16,1,Increase,false
+2025-183_q16,2,Decrease,false
+2025-183_q16,3,Stay the same,false
+2025-183_q16,4,Not sure,false
+2025-183_q17,1,Very likely,false
+2025-183_q17,2,Somewhat likely,false
+2025-183_q17,3,Not very likely,false
+2025-183_q17,4,Not at all likely,false
+2025-183_q17,5,Not sure,false
+2025-183_q18,1,A long-term peace agreement,false
+2025-183_q18,2,"A temporary ceasefire, but no lasting peace",false
+2025-183_q18,3,Ongoing conflict at about the current level,false
+2025-183_q18,4,"A broader, more intense conflict",false
+2025-183_q18,5,Not sure,false
+2025-183_q19,1,Continue,false
+2025-183_q19,2,Crash,false
+2025-183_q19,3,Not sure,false
+2025-183_q2,1,Yes,false
+2025-183_q2,2,No,false
+2025-183_q3,1,Yes,false
+2025-183_q3,2,No,false
+2025-183_q38,1,"Yes, I routinely see a mental health professional (therapist, psychiatrist, etc)",false
+2025-183_q38,2,"Yes, I have a strong support network of friends and family",false
+2025-183_q38,3,"No, I do not have anyone else to talk to",false
+2025-183_q38,4,I don’t use an AI chatbot for mental health purposes,false
+2025-183_q4,1,Rock,false
+2025-183_q4,2,Country,false
+2025-183_q4,3,Rap,false
+2025-183_q4,4,R&B,false
+2025-183_q4,5,Electronic/Techno,false
+2025-183_q4,6,Something else,false
+2025-183_q4,7,Not sure,false
+2025-183_q43,1,Greatly improve,false
+2025-183_q43,2,Somewhat improve,false
+2025-183_q43,3,Somewhat worsen,false
+2025-183_q43,4,Greatly worsen,false
+2025-183_q44,1,Very concerned,false
+2025-183_q44,2,Somewhat concerned,false
+2025-183_q44,3,Not concerned at all,false
+2025-183_q44,4,I do not work,false
+2025-183_q45_1,1,More,false
+2025-183_q45_1,2,About the Same,false
+2025-183_q45_1,3,Less,false
+2025-183_q45_1,4,I do not plan to do this activity,false
+2025-183_q45_10,1,More,false
+2025-183_q45_10,2,About the Same,false
+2025-183_q45_10,3,Less,false
+2025-183_q45_10,4,I do not plan to do this activity,false
+2025-183_q45_11,1,More,false
+2025-183_q45_11,2,About the Same,false
+2025-183_q45_11,3,Less,false
+2025-183_q45_11,4,I do not plan to do this activity,false
+2025-183_q45_12,1,More,false
+2025-183_q45_12,2,About the Same,false
+2025-183_q45_12,3,Less,false
+2025-183_q45_12,4,I do not plan to do this activity,false
+2025-183_q45_2,1,More,false
+2025-183_q45_2,2,About the Same,false
+2025-183_q45_2,3,Less,false
+2025-183_q45_2,4,I do not plan to do this activity,false
+2025-183_q45_3,1,More,false
+2025-183_q45_3,2,About the Same,false
+2025-183_q45_3,3,Less,false
+2025-183_q45_3,4,I do not plan to do this activity,false
+2025-183_q45_4,1,More,false
+2025-183_q45_4,2,About the Same,false
+2025-183_q45_4,3,Less,false
+2025-183_q45_4,4,I do not plan to do this activity,false
+2025-183_q45_5,1,More,false
+2025-183_q45_5,2,About the Same,false
+2025-183_q45_5,3,Less,false
+2025-183_q45_5,4,I do not plan to do this activity,false
+2025-183_q45_6,1,More,false
+2025-183_q45_6,2,About the Same,false
+2025-183_q45_6,3,Less,false
+2025-183_q45_6,4,I do not plan to do this activity,false
+2025-183_q45_7,1,More,false
+2025-183_q45_7,2,About the Same,false
+2025-183_q45_7,3,Less,false
+2025-183_q45_7,4,I do not plan to do this activity,false
+2025-183_q45_8,1,More,false
+2025-183_q45_8,2,About the Same,false
+2025-183_q45_8,3,Less,false
+2025-183_q45_8,4,I do not plan to do this activity,false
+2025-183_q45_9,1,More,false
+2025-183_q45_9,2,About the Same,false
+2025-183_q45_9,3,Less,false
+2025-183_q45_9,4,I do not plan to do this activity,false
+2025-183_q46,1,Increase,false
+2025-183_q46,2,Stay about the same,false
+2025-183_q46,3,Decrease,false
+2025-183_q46,4,I do not have non-mortgage debt,false
+2025-183_q47,1,"Yes, I am currently using a GLP-1 medication",false
+2025-183_q47,2,"Yes, I have seriously considered it",false
+2025-183_q47,3,"Yes, I have considered it briefly",false
+2025-183_q47,4,"No, I have not considered it",false
+2025-183_q48,1,Cost or lack of insurance coverage,false
+2025-183_q48,2,Other (please specify),false
+2025-183_q48,3,Concern about side effects,false
+2025-183_q48,4,Difficulty getting a prescription,false
+2025-183_q48,5,Uncertainty about long-term safety,false
+2025-183_q48,6,Not recommended by a healthcare provider,false
+2025-183_q48,7,Prefer other weight-management or treatment options,false
+2025-183_q48,8,Concern about regaining weight after stopping,false
+2025-183_q48,9,Social stigma or personal discomfort,false
+2025-183_q48,10,Not eligible / not medically appropriate,false
+2025-183_q49,1,Yes,false
+2025-183_q49,2,No,false
+2025-183_q49,3,Unsure,false
+2025-183_q5,1,Algeria,false
+2025-183_q5,2,Argentina,false
+2025-183_q5,3,Austria,false
+2025-183_q5,4,Belgium,false
+2025-183_q5,5,Brazil,false
+2025-183_q5,6,Cabo Verde,false
+2025-183_q5,7,Colombia,false
+2025-183_q5,8,Côte d'Ivoire,false
+2025-183_q5,9,Croatia,false
+2025-183_q5,11,Ecuador,false
+2025-183_q5,12,Egypt,false
+2025-183_q5,13,England,false
+2025-183_q5,14,France,false
+2025-183_q5,15,Germany,false
+2025-183_q5,16,Ghana,false
+2025-183_q5,17,Haiti,false
+2025-183_q5,18,Morocco,false
+2025-183_q5,19,Netherlands,false
+2025-183_q5,20,New Zealand,false
+2025-183_q5,21,Norway,false
+2025-183_q5,22,Panama,false
+2025-183_q5,23,Paraguay,false
+2025-183_q5,24,Portugal,false
+2025-183_q5,25,Scotland,false
+2025-183_q5,27,South Africa,false
+2025-183_q5,28,Spain,false
+2025-183_q5,29,Switzerland,false
+2025-183_q5,30,Tunisia,false
+2025-183_q5,31,Uruguay,false
+2025-183_q5,32,Australia,false
+2025-183_q5,33,Canada,false
+2025-183_q5,34,Iran,false
+2025-183_q5,35,Japan,false
+2025-183_q5,36,Jordan,false
+2025-183_q5,37,Mexico,false
+2025-183_q5,38,Qatar,false
+2025-183_q5,39,Saudi Arabia,false
+2025-183_q5,40,South Korea,false
+2025-183_q5,41,USA,false
+2025-183_q5,42,Uzbekistan,false
+2025-183_q5,43,Another country,false
+2025-183_q5,44,Don’t know,false
+2025-183_q50,1,Underweight,false
+2025-183_q50,2,About the right weight,false
+2025-183_q50,3,Slightly overweight,false
+2025-183_q50,4,Very overweight,false
+2025-183_q50,5,Prefer not to say,false
+2025-183_q51,1,${e://Field/pv1_ro},false
+2025-183_q51,2,Stay the same,false
+2025-183_q51,3,${e://Field/pv2_ro},false
+2025-183_q6,1,Taylor Swift and Travis Kelce,false
+2025-183_q6,2,Zendaya and Tom Holland,false
+2025-183_q6,3,Hailey Bieber and Justin Bieber,false
+2025-183_q6,4,Katy Perry and Justin Trudeau,false
+2025-183_q6,5,Selena Gomez and Benny Blanco,false
+2025-183_q6,6,Kylie Jenner and Timothee Chalamet,false
+2025-183_q6,7,None of the above,false
+2025-183_q6,8,Not sure,false
+2025-183_q7,1,Yes,false
+2025-183_q7,2,No,false
+2025-183_q7,3,Not sure,false
+2025-183_q8,1,Denver Broncos,false
+2025-183_q8,2,Los Angeles Rams,false
+2025-183_q8,3,New England Patriots,false
+2025-183_q8,4,Jacksonville Jaguars,false
+2025-183_q8,5,Pittsburgh Steelers,false
+2025-183_q8,6,Los Angeles Chargers,false
+2025-183_q8,7,Houston Texans,false
+2025-183_q8,8,Chicago Bears,false
+2025-183_q8,9,Tampa Bay Buccaneers,false
+2025-183_q8,10,Green Bay Packers,false
+2025-183_q8,11,San Francisco 49ers,false
+2025-183_q8,12,Philadelphia Eagles,false
+2025-183_q8,13,Buffalo Bills,false
+2025-183_q8,14,Seattle Seahawks,false
+2025-183_q8,15,Another team (please specify),false
+2025-183_q8,16,Not sure,false
+2025-183_q9_1,1,Highly likely,false
+2025-183_q9_1,2,Likely,false
+2025-183_q9_1,3,Unlikely,false
+2025-183_q9_1,4,Highly Unlikely,false
+2025-183_q9_10,1,Highly likely,false
+2025-183_q9_10,2,Likely,false
+2025-183_q9_10,3,Unlikely,false
+2025-183_q9_10,4,Highly Unlikely,false
+2025-183_q9_2,1,Highly likely,false
+2025-183_q9_2,2,Likely,false
+2025-183_q9_2,3,Unlikely,false
+2025-183_q9_2,4,Highly Unlikely,false
+2025-183_q9_3,1,Highly likely,false
+2025-183_q9_3,2,Likely,false
+2025-183_q9_3,3,Unlikely,false
+2025-183_q9_3,4,Highly Unlikely,false
+2025-183_q9_4,1,Highly likely,false
+2025-183_q9_4,2,Likely,false
+2025-183_q9_4,3,Unlikely,false
+2025-183_q9_4,4,Highly Unlikely,false
+2025-183_q9_5,1,Highly likely,false
+2025-183_q9_5,2,Likely,false
+2025-183_q9_5,3,Unlikely,false
+2025-183_q9_5,4,Highly Unlikely,false
+2025-183_q9_6,1,Highly likely,false
+2025-183_q9_6,2,Likely,false
+2025-183_q9_6,3,Unlikely,false
+2025-183_q9_6,4,Highly Unlikely,false
+2025-183_q9_7,1,Highly likely,false
+2025-183_q9_7,2,Likely,false
+2025-183_q9_7,3,Unlikely,false
+2025-183_q9_7,4,Highly Unlikely,false
+2025-183_q9_8,1,Highly likely,false
+2025-183_q9_8,2,Likely,false
+2025-183_q9_8,3,Unlikely,false
+2025-183_q9_8,4,Highly Unlikely,false
+2025-183_q9_9,1,Highly likely,false
+2025-183_q9_9,2,Likely,false
+2025-183_q9_9,3,Unlikely,false
+2025-183_q9_9,4,Highly Unlikely,false

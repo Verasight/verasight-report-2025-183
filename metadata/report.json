@@ -1,0 +1,24 @@
+{
+  "report_id": "2025-183",
+  "repo_name": "verasight-report-2025-183",
+  "title": "2026 Predictions Survey #2025-183",
+  "wave_id": "2025-183",
+  "survey_id": "2025-183",
+  "source_report_url": "https://reports.verasight.io/reports/2026-predictions",
+  "data_library_url": "https://data.verasight.io/",
+  "field_dates": {
+    "start": "2025-12-22",
+    "end": "2026-01-05"
+  },
+  "population": "United States adults",
+  "mode": "online panel (Verasight Community)",
+  "sponsor": "Verasight",
+  "aapor_transparency": true,
+  "question_count": 89,
+  "modules": [
+    "AI Adoption Survey June 2025",
+    "AI Adoption Survey August 2025",
+    "Pop Culture",
+    "Predictions"
+  ]
+}
