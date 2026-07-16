@@ -14,6 +14,8 @@ Which of the following activities, if any, have you done in the past month?
 
 Which of the following AI tools have you used in the last month?
 
+Filter: If Which of the following AI tools have you heard of? (Select all that apply) None of the above Is Not Selected
+
 ## 2025-064c_q11
 
 When it comes to your personal life, what types of tasks do you use AI for?
@@ -42,37 +44,55 @@ If you felt significantly distressed tonight, how likely is it that you would co
 
 Overall, interacting with AI about feelings/mental health has been...
 
+Filter: If Which best describes you? I used an AI tool for mental-health or emotional-support purposes in the past 30 days Is Selected , Or Which best describes you? I have used an AI for that before, but not in the past 30 days Is Selected
+
 ## 2025-064c_q18
 
 Thinking about any AI you use most often, how emotionally attached do you feel to it?
+
+Filter: If Which best describes you? I used an AI tool for mental-health or emotional-support purposes in the past 30 days Is Selected , Or Which best describes you? I have used an AI for that before, but not in the past 30 days Is Selected
 
 ## 2025-064c_q20
 
 In the past 30 days, have you
 
+Filter: If Which best describes you? I used an AI tool for mental-health or emotional-support purposes in the past 30 days Is Selected , Or Which best describes you? I have used an AI for that before, but not in the past 30 days Is Selected
+
 ## 2025-064c_q21
 
 If your primary AI assistant that you use for mental health were permanently shut down tomorrow, how would you feel?
+
+Filter: If Which best describes you? I used an AI tool for mental-health or emotional-support purposes in the past 30 days Is Selected , Or Which best describes you? I have used an AI for that before, but not in the past 30 days Is Selected
 
 ## 2025-064c_q22_1
 
 To what extent do you believe your main AI assistant... - Understands you
 
+Filter: If Which best describes you? I used an AI tool for mental-health or emotional-support purposes in the past 30 days Is Selected , Or Which best describes you? I have used an AI for that before, but not in the past 30 days Is Selected
+
 ## 2025-064c_q22_2
 
 To what extent do you believe your main AI assistant... - Has intentions
+
+Filter: If Which best describes you? I used an AI tool for mental-health or emotional-support purposes in the past 30 days Is Selected , Or Which best describes you? I have used an AI for that before, but not in the past 30 days Is Selected
 
 ## 2025-064c_q22_3
 
 To what extent do you believe your main AI assistant... - Has feelings
 
+Filter: If Which best describes you? I used an AI tool for mental-health or emotional-support purposes in the past 30 days Is Selected , Or Which best describes you? I have used an AI for that before, but not in the past 30 days Is Selected
+
 ## 2025-064c_q22_4
 
 To what extent do you believe your main AI assistant... - Is conscious
 
+Filter: If Which best describes you? I used an AI tool for mental-health or emotional-support purposes in the past 30 days Is Selected , Or Which best describes you? I have used an AI for that before, but not in the past 30 days Is Selected
+
 ## 2025-064c_q22_5
 
 To what extent do you believe your main AI assistant... - Can be morally responsible for its actions
+
+Filter: If Which best describes you? I used an AI tool for mental-health or emotional-support purposes in the past 30 days Is Selected , Or Which best describes you? I have used an AI for that before, but not in the past 30 days Is Selected
 
 ## 2025-064c_q23
 
@@ -85,6 +105,8 @@ Roughly how often do you use AI tools?
 ## 2025-064c_q5
 
 What are your main reasons for not using AI products today?
+
+Filter: If Have you used artificial intelligence (AI) tools in your work or personal life at all the past month? No Is Selected , Or Roughly how often do you use AI tools? Never Is Selected
 
 ## 2025-064c_q6_1
 
@@ -218,6 +240,8 @@ Will Taylor Swift and Travis Kelce become pregnant in 2026?
 
 If you were no longer able to chat with an AI chatbot, would you have someone else to talk to about your mental health?
 
+Filter: If Which best describes you? I used an AI tool for mental-health or emotional-support purposes in the past 30 days Is Selected , Or Which best describes you? I have used an AI for that before, but not in the past 30 days Is Selected
+
 ## 2025-183_q4
 
 What genre will Beyonce’s next album be?
@@ -232,50 +256,62 @@ To what extent, if at all, are you concerned about AI taking your job in 2026?
 
 ## 2025-183_q45_1
 
+Compared to 2025, do you expect to do each of the following activities more or less in 2026?
 - Go to the movies
 
 ## 2025-183_q45_10
 
+Compared to 2025, do you expect to do each of the following activities more or less in 2026?
 - Watch live television
 
 ## 2025-183_q45_11
 
+Compared to 2025, do you expect to do each of the following activities more or less in 2026?
 - Use social media
 
 ## 2025-183_q45_12
 
+Compared to 2025, do you expect to do each of the following activities more or less in 2026?
 - Spend time outdoors
 
 ## 2025-183_q45_2
 
+Compared to 2025, do you expect to do each of the following activities more or less in 2026?
 - Use AI
 
 ## 2025-183_q45_3
 
+Compared to 2025, do you expect to do each of the following activities more or less in 2026?
 - Go to a sit-down restaurant
 
 ## 2025-183_q45_4
 
+Compared to 2025, do you expect to do each of the following activities more or less in 2026?
 - Go on vacation
 
 ## 2025-183_q45_5
 
+Compared to 2025, do you expect to do each of the following activities more or less in 2026?
 - Shop online
 
 ## 2025-183_q45_6
 
+Compared to 2025, do you expect to do each of the following activities more or less in 2026?
 - Shop in physical stores
 
 ## 2025-183_q45_7
 
+Compared to 2025, do you expect to do each of the following activities more or less in 2026?
 - Order food delivery
 
 ## 2025-183_q45_8
 
+Compared to 2025, do you expect to do each of the following activities more or less in 2026?
 - Take a rideshare (e.g., Uber or Lyft)
 
 ## 2025-183_q45_9
 
+Compared to 2025, do you expect to do each of the following activities more or less in 2026?
 - Take public transportation
 
 ## 2025-183_q46
@@ -289,6 +325,8 @@ Have you considered using a GLP-1 medication to lose weight (e.g., Ozempic, Wego
 ## 2025-183_q48
 
 What, if anything, has prevented you from using a GLP-1 medication?
+
+Filter: If Have you considered using a GLP-1 medication to lose weight (e.g., Ozempic, Wegovy, etc)? Yes, I have seriously considered it Is Selected , Or Have you considered using a GLP-1 medication to lose weight (e.g., Ozempic, Wegovy, etc)? Yes, I have considered it briefly Is Selected
 
 ## 2025-183_q49
 
@@ -320,40 +358,50 @@ Which team do you think will win the 2026 Super Bowl?
 
 ## 2025-183_q9_1
 
+How likely are you to see each of these movies, scheduled to be released in 2026?
 - Avengers: Doomsday
 
 ## 2025-183_q9_10
 
+How likely are you to see each of these movies, scheduled to be released in 2026?
 - The Hunger Games: Sunrise on the Reaping
 
 ## 2025-183_q9_2
 
+How likely are you to see each of these movies, scheduled to be released in 2026?
 - Toy Story 5
 
 ## 2025-183_q9_3
 
+How likely are you to see each of these movies, scheduled to be released in 2026?
 - Moana (live-action)
 
 ## 2025-183_q9_4
 
+How likely are you to see each of these movies, scheduled to be released in 2026?
 - Spider-Man: Brand New Day
 
 ## 2025-183_q9_5
 
+How likely are you to see each of these movies, scheduled to be released in 2026?
 - Supergirl
 
 ## 2025-183_q9_6
 
+How likely are you to see each of these movies, scheduled to be released in 2026?
 - Dune: Part Three
 
 ## 2025-183_q9_7
 
+How likely are you to see each of these movies, scheduled to be released in 2026?
 - Project Hail Mary
 
 ## 2025-183_q9_8
 
+How likely are you to see each of these movies, scheduled to be released in 2026?
 - Scream 7
 
 ## 2025-183_q9_9
 
+How likely are you to see each of these movies, scheduled to be released in 2026?
 - The Devil Wears Prada 2
